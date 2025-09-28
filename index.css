@@ -3158,6 +3158,9 @@ width: 140px;
     height: 55px;
    padding-top: 10px;
 }
+.active .query_answer{
+    width:95vw;
+}
 /* .query_questions {
     width: 80vw;
 } */
